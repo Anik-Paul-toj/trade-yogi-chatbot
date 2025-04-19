@@ -90,7 +90,7 @@ export default function Home() {
   return (
     <div className="flex flex-col h-screen">
       <div className="bg-background py-4 text-center">
-        <h1 className="text-3xl font-bold">StockSage Chatbot</h1>
+        <h1 className="text-3xl font-bold">Yogi's Tips</h1>
       </div>
 
       <Card className="flex-grow overflow-hidden">
